@@ -1,9 +1,12 @@
-const t1 = 1;
+// 🎯 Target: Go get the
 
+const t1 = 1;
+// 🧀 Here
 function go() {
-  // 🏹 Pattern & Breakdown
-  // Go get the job at do
   const pow = "pow";
   return pow;
 }
 let yo = 2;
+
+// 🧀 Here
+let t2 = 2;
