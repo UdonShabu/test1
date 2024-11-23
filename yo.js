@@ -1,7 +1,9 @@
 const t1 = 1;
 
-// 🎯 Target: If we
 function go() {
-  // 🧀 Here
+  // 🏹 Pattern & Breakdown
+  // Go get the job at do
+  const pow = "pow";
+  return pow;
 }
 let yo = 2;
