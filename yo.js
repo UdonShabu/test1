@@ -1,10 +1,9 @@
 const t1 = 1;
 let ab = "ab";
 
-// 🎯 Target: Since we..
 function go() {
   const pow = "pow";
-  //   🧀 Here
+  return 21;
 }
 let yo = 2;
 let cd = "cd";
