@@ -1,7 +1,7 @@
-// 🎯 Target: You’re working on an art marketplace app that lets the user submit multiple orders for an art item at the same time.
 const t1 = 1;
+// 🏹 Pattern & Breakdown
+// Whether you put it before or after the setWalk call makes no difference.
+// That render’s value of walk is fixed. Calling setWalk will only change it for the next render,
+// but will not affect the event handler from the previous render.
 
-// 🧀 Here
-let na = "ni";
-
-// 🧀 Here
+let yo = 2;
